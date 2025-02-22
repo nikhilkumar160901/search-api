@@ -42,7 +42,7 @@ A high-performance search API with auto-completion, built with Node.js, MongoDB,
 
 ## **Architectural Explanation **
 
-The **Unolo Search API** is designed for **high-performance search with auto-completion**, optimized for **low latency** and **scalability**. Key design choices and trade-offs include:
+The **Search API** is designed for **high-performance search with auto-completion**, optimized for **low latency** and **scalability**. Key design choices and trade-offs include:
 
 1. **Technology Stack**:
    - **Node.js** for non-blocking I/O.
